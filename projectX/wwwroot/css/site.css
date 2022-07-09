@@ -1,0 +1,45 @@
+html {
+  font-size: 15px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: #ffffff;
+}
+
+.brand {
+    font-size: 20px;
+    color: #e60023;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.badge {
+    background-color: #e60023;
+    color: white;
+    padding: 8px 8px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 13px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
